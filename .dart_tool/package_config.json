@@ -62,6 +62,12 @@
       "languageVersion": "3.7"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.27.2/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    },
+    {
       "name": "leak_tracker",
       "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/leak_tracker-10.0.8",
       "packageUri": "lib/",
@@ -110,10 +116,64 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "record",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record-4.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "record_linux",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record_linux-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "record_macos",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record_macos-0.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "record_platform_interface",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record_platform_interface-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "record_web",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record_web-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "record_windows",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/record_windows-0.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "settings_ui",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/settings_ui-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///opt/homebrew/Caskroom/flutter/3.27.2/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.7"
+    },
+    {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///Users/eman/.pub-cache/hosted/pub.dev/smooth_page_indicator-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "source_span",
@@ -170,7 +230,7 @@
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-03-25T13:19:08.475336Z",
+  "generated": "2025-05-04T21:00:49.639754Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///opt/homebrew/Caskroom/flutter/3.27.2/flutter",
