@@ -92,5 +92,3 @@ bool onLastPage = false; //boolean values, default is false
   
   }
 }
-
-
