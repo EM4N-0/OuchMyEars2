@@ -1,18 +1,16 @@
 name: Flutter Build and Upload Android APK
 
 on: workflow_dispatch
-  #push:                 # This is the condition that the action will run on
-    # branches: [ main ]  # In this case when you push your code into GitHub
-    # tags:
-    # - "v*.*.*"          # In this case when you tag your commit with v1.0.0 for example
+  #push:                 
+  #  branches: [ main ]
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # This is the type of machine we want to run the action on
+    runs-on: ubuntu-latest  
     permissions:
       contents: write
 
-    steps:
+   steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 

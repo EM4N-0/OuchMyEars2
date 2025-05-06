@@ -30,7 +30,18 @@ shared_preferences
 
 ## Installation
 
-Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
+
+```
+git clone this repo
+
+flutter pub get
+
+flutter run (Use physical device, simulators don't have mics)
+
+allow permission for mic usage when prompted
+
+```
+
 
 ##  Contact Details
 ucfneeg@ucl.ac.uk
