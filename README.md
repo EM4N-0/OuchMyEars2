@@ -1,23 +1,36 @@
-# REPLACE WITH YOUR APP NAME
+# O U C H M Y E A R S
 
-This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
-This section has a short introduction to what the application is
+Ouch My Ears is a lightweight mobile app built with Flutter that helps users visually understand the loudness of their environment using real-time microphone input. The app displays ambient noise levels through simple color indicators—green for safe, yellow for caution, and red for potentially harmful volumes making it ideal for students, commuters, and live music lovers who want to protect their hearing. Designed to be fast, intuitive, and privacy-friendly, the app requires no login or data collection, focusing solely on helping users stay aware of their auditory surroundings.
 
-## Use this README File 
+## Initial Wireframes
 
-Use this section to show us what your Mobile App is about.   Include a Screenshot to the App, link to the various frameworks you've used. Include your presentation video here that shows off your Mobile App.   Emojis are also fun to include 📱 😄
+!["Wireframe](assets/images/wireframe.jpg)
 
-Look at some other Flutter Apps online and see how they use there README File.  Good examples are:
+## App Overview
 
-- https://github.com/miickel/flutter_particle_clock
-- https://github.com/Tarikul711/flutter-food-delivery-app-ui    
-- https://github.com/mohak1283/Instagram-Clone
+!["App Overview"](assets/images/AppOverview.png)
+
+## 📦 Flutter Dependencies Used
+flutter
+
+Core SDK for Flutter apps.
+
+record 
+
+permission_handler
+
+flutter_svg 
+ 
+smooth_page_indicator
+  
+settings_ui
+
+shared_preferences
 
 
-## Include A Section That Tells Developers How To Install The App
+## Installation
 
 Include a section that gives intructions on how to install the app or run it in Flutter.  What versions of the plugins are you assuming?  Maybe define a licence
 
 ##  Contact Details
-
-Having Contact Details is also good as it shows people how to get in contact with you if they'd like to contribute to the app. 
+ucfneeg@ucl.ac.uk
